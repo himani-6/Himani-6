@@ -1,94 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6F47,100:C2A27A&height=200&section=header&text=Himani&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&customColorList=0,2,12&text=Himani&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=C2A27A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Real-World+Projects;AI+Features+in+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+AI-powered+Web+Apps" />
+
+✨ 🌙 ✨
 
 </div>
 
 ---
 
-## ✨ About Me
+## 💫 About Me
 
-🌱 B.Tech Computer Science Engineering student  
-💻 Passionate about **software development**  
-🤖 Interested in **AI-powered web applications**  
-🚀 Love building **end-to-end, deployed projects**
+Hi, I’m **Himani**, a **B.Tech Computer Science student** who enjoys building  
+**clean, functional, and visually pleasing web applications**.
 
----
+I’m interested in:
+- Software Development  
+- Full-Stack Web Applications  
+- Applying **AI features inside web products**
 
-## 🧠 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,mysql" />
-</p>
+I learn best by **building real projects and deploying them**.
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ✨ Skills Snapshot
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,flask" />
-</p>
-
----
-
-## 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,vscode,idea" />
-</p>
+### 💻 Programming Languages
+🐍 **Python**  
+📜 **JavaScript**  
+🗄 **SQL**  
+⚙ **C / C++**  
+🌐 **HTML & CSS**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌟 Career Craft – Build Your Career with AI
-🔹 Full-stack AI-powered career assistant  
-🔹 Resume Builder • ATS Checker • Job Recommendations  
-🔹 **Tech:** React, Next.js, Tailwind, FastAPI, Firebase, Firestore  
-🔗 **Live:** https://careercraft.vercel.app  
+### 🧩 Frameworks & Libraries
+⚛ **React.js**  
+➡ **Next.js**  
+🎨 **Tailwind CSS**  
+⚡ **FastAPI**  
+🌱 **Flask**
 
 ---
 
-### 👁️ Facial Attendance Recognition System
-🔹 AI + Computer Vision based attendance system  
-🔹 Face recognition for student management  
-🔹 **Tech:** Python, OpenCV, Flask, MySQL  
+### 🛠 Tools & Platforms
+🔐 **Firebase Authentication**  
+🗃 **Firestore Database**  
+🐙 **Git & GitHub**  
+🧠 **Hugging Face**  
+🚀 **Vercel**  
+🧩 **Render**  
+🧑‍💻 **VS Code & IntelliJ IDEA**
+
+---
+
+## 🌟 Featured Projects
+
+### 🎯 Career Craft – Build Your Career with AI
+A full-stack career platform that helps users build resumes,  
+check ATS compatibility, get AI-based job recommendations,  
+and fetch live job listings.
+
+✨ **Highlights**
+- Resume Builder  
+- ATS Score & Suggestions  
+- AI Job Matching  
+- Live Job Fetching  
+
+🧩 **Tech Used:** React (Next.js), Tailwind CSS, FastAPI, Firebase, Firestore  
+🚀 **Live Demo:** https://careercraft.vercel.app
+
+---
+
+### 👁 Facial Attendance Recognition System
+An **AI + Computer Vision** based attendance system using facial recognition  
+for student registration and attendance tracking.
+
+🧩 **Tech Used:** Python, OpenCV, Flask, MySQL
 
 ---
 
 ### 📝 AI Notes Summarizer
-🔹 Summarizes text, PDF & image inputs  
-🔹 OCR + NLP pipeline with refinement  
-🔹 **Tech:** Python, Flask, Hugging Face, Gemini API, SQL  
+An AI-based notes summarization system supporting:
+- Text input  
+- PDF files  
+- Image (OCR) input  
+
+🧩 **Tech Used:** Python, Flask, Hugging Face models, Gemini API, SQL
 
 ---
 
-## 📊 GitHub Activity
+## ✨ Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himani-6&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himani-6&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+💌 **Email:** himanimadaan47@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/himani-madaan-7b8192277  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himani-6&bg_color=1a1b27&color=c2a27a&line=8b6f47&point=ffffff&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-🔗 LinkedIn: https://linkedin.com/in/himani-madaan-7b8192277  
-💻 GitHub: https://github.com/himani-6  
-
-✨ Thanks for visiting — feel free to explore my work!
+✨ Thanks for stopping by — feel free to explore my work!
