@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=0,2,12&text=Himani&fontSize=48&fontColor=ffffff&animation=fadeIn&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%2C%20I’m%20Himani&fontSize=42&fontColor=ffffff&color=0:1f1c2c,50:4b134f,100:283048&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+AI-powered+Web+Apps" />
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=6F9EFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+AI-powered+Web+Applications" />
 
 </div>
 
@@ -24,40 +22,22 @@ I learn best by **building real projects and deploying them**.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C83FD&height=90&section=header" />
-
 ## ✨ Skills Snapshot
 
 ### 💻 Programming Languages
-🐍 **Python**  
-📜 **JavaScript**  
-🗄 **SQL**  
-⚙ **C / C++**  
-🌐 **HTML & CSS**
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,sql" />
 
 ---
 
 ### 🧩 Frameworks & Libraries
-⚛ **React.js**  
-➡ **Next.js**  
-🎨 **Tailwind CSS**  
-⚡ **FastAPI**  
-🌱 **Flask**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,flask" />
 
 ---
 
 ### 🛠 Tools & Platforms
-🔐 **Firebase Authentication**  
-🗃 **Firestore Database**  
-🐙 **Git & GitHub**  
-🧠 **Hugging Face**  
-🚀 **Vercel**  
-🧩 **Render**  
-🧑‍💻 **VS Code & IntelliJ IDEA**
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vercel,render,vscode" />
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C83FD&height=90&section=header" />
 
 ## 🌟 Featured Projects
 
@@ -91,25 +71,21 @@ An AI-based notes summarization system supporting:
 - PDF files  
 - Image (OCR) input  
 
-🧩 **Tech Used:** Python, Flask, Hugging Face models, Gemini API, SQL
+🧩 **Tech Used:** Python, Flask, Hugging Face Models, Gemini API, SQL
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C83FD&height=90&section=header" />
-
 ## 📊 GitHub Activity
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=himani-6&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himani-6&theme=tokyonight&hide_border=true" />
-</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himani-6&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ## ✨ Let’s Connect
 
-💌 **Email:** himanimadaan47@gmail.com  
+📧 **Email:** himanimadaan47@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/himani-madaan-7b8192277  
 
 ✨ Thanks for stopping by — feel free to explore my work!
